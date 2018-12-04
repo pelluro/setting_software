@@ -1,0 +1,30 @@
+alias web='cd /var/www/html'
+alias ws='cd /home/pelluro/Documents/WebStorm-182.4892.25/bin && ./webstorm.sh'
+alias ps='cd /home/pelluro/Documents/PhpStorm-2018.3/PhpStorm-183.4284.150/bin && ./phpstorm.sh'
+alias azerty='setxkbmap fr'
+alias qwerty='setxkbmap us'
+alias gs="git status"
+alias ga="git add"
+alias gm="git commit -m"
+alias gp="git push"
+alias gma="git commit -a -m"
+alias gmm="git commit"
+alias gl="git log"
+alias gcl='git clone'
+alias gpl='git pull'
+alias glo="git log --oneline"
+alias gr="git revert -m"
+alias sdd="clear"
+alias gc="git checkout"
+alias v="vim"
+alias c="cat="
+alias gt="git stash"
+alias gi="touch .gitignore"
+alias rmd="rm -Rf"
+alias g="gcc -Wall -Wextra -Werror"
+alias n="norminette | grep -b1 Error"
+alias m="meteor"
+alias mn="meteor npm install"
+alias imeteor="curl https://install.meteor.com/ | sh"
+alias chm="chmod -R  755  *"
+
